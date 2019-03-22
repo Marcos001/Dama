@@ -96,10 +96,11 @@ public class game_main_humano extends JFrame implements ActionListener{
     public game_main_humano(String nome1,String nome2){
 
         //propriedades das janelas
-        setResizable(false);
+        setResizable(true);
         setBounds(100, 0, 1200, 650);
         setVisible(true);
         addPainelGeral();
+        setTitle("Dama - XNigom");
 
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 

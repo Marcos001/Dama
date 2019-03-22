@@ -10,8 +10,7 @@
    * terá que ser feito um ranking dos melhores jogadores (mostrando os 5 melhores).
    *
 Obs.: Os alunos terão que fazer reuso da inteligência utilizada no ultimo trabalho e também do ranking.
-Obs.: Uma vitoria vale 3 pontos, um empate 1 e uma derrota 0 pontos (pontos esse que devem ser utilizados
- para montar o ranking).
+Obs.: Uma vitoria vale 3 pontos, um empate 1 e uma derrota 0 pontos (pontos esse que devem ser utilizados para montar o ranking).
 Obs.: Toda vez que um jogador terminar seu turno de jogada o jogo deve avisar de quem é a próxima vez.
 *
 * */
